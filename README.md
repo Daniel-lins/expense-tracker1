@@ -30,7 +30,7 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/71731815/154562643-de389ed2-973d-418a-9b21-f6f740981677.png"  width="500px" />
    <img src="https://user-images.githubusercontent.com/71731815/154563059-0ecd01bc-5c18-4a69-9e5e-cece2c1f9e0e.png" width="500px" />
-  
+
   
  
   
@@ -60,7 +60,7 @@ Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/LeonneBrito/jstack-my-contacts-api/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/expense-tracker1/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 # :page_facing_up: License
 
