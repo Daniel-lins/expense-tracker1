@@ -1,6 +1,6 @@
 
 
-<h1 align="center">  expense tracker </h1>
+<h1 align="center">  Expense Tracker </h1>
 <p align="center">   :moneybag: Manage your money. Project developed during challenge 5 in 5 | <a href="https://www.youtube.com/c/BoniekyLacerdaLeal"> Boniek Lacerda</a> </p>
 <p align="center" ><a  href="https://financeiro-react.herokuapp.com/" > Application running | click here </a>  </p>
 <p align="center">
