@@ -6,11 +6,7 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/daniel-lins-/">
       <img alt="DanielLins" src="https://img.shields.io/badge/-DanielLi-5965e0?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/jstack-my-contacts-api?color=%235963C5" />
-  <img alt="repo-size" src="https://img.shields.io/github/repo-size/LeonneBrito/jstack-my-contacts-api?color=%235761C3" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/Daniel-lins/expense-tracker1?color=%235761C3" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/daniel-lins/expense-tracker1?color=%235965E0">
+      <img alt="Issues" src="https://img.shields.io/github/issues/daniel-lins/expense-tracker1?color=%235965E0">
   <a href="Dlins300@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-dlins300%40gmail.com-%23525DCB" />
   </a>
